@@ -1,0 +1,31 @@
+# Repo State — codeshub
+
+- upstream_url: https://github.com/diwas7777/CodesHub
+- fork_url: https://github.com/Arvuno/codeshub
+- local_path: /root/star-first-1/repos/codeshub
+- default_branch: main
+- repo_activity: medium — code snippets platform with language folders
+- archived: no
+- contribution_guidelines_found: CONTRIBUTING.md
+- license: present (GPL-2.0)
+- primary_language: mixed (C, C++, Java, Python, JS, Go, Rust, PHP, C#, HTML, TypeScript)
+- package_manager: none (pure code snippets repo); npm in Javascript/fastify sub-project
+- build_system: none
+- fork_created: yes
+- cloned: yes
+- upstream_remote_added: yes
+- baseline_tests_run: no
+- baseline_status: N/A (code snippets repo, no tests)
+- issue_triage_done: no
+- quality_audit_done: yes — see 01_REPO_MAP.md
+- candidate_backlog_done: no
+- selected_10_pr_plan_done: no
+- branches_created: 0
+- branches_pushed: 0
+- prs_opened_total: 0
+- prs_merged_total: 0
+- prs_closed_total: 0
+- prs_waiting_review: 0
+- blocked: no
+- blocker_reason:
+- next_action: Phase 3 complete — repo mapped. Ready for candidate backlog work.
