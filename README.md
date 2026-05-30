@@ -1,10 +1,13 @@
 
 # CodesHub
 
+[![Star this repo](https://img.shields.io/badge/If%20useful-⭐️-yellow?style=for-the-badge)](https://github.com/diwas7777/CodesHub)
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&multiline=true&width=250&height=80&lines=CodesHub" />
   <p><i>This open source project is made to help students find codes in different languages easily for every use case.</i></p>
-  <img src="https://img.shields.io/badge/hacktoberfest-2025-blueviolet" alt="Hacktober Badge"/>
+  <img src="https://img.shields.io/badge/hacktoberfest-2026-blueviolet" alt="Hacktober Badge"/>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://github.com/diwas7777/CodesHub" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
   <a href="https://github.com/diwas7777/CodesHub/pulls"><img src="https://img.shields.io/github/issues-pr/diwas7777/CodesHub" alt="Pull Requests Badge"/></a>

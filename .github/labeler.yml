@@ -1,0 +1,13 @@
+# Add labels to PRs based on file patterns
+
+docs:
+  - changed: '**/*.md'
+  - changed: 'docs/**/*'
+
+code:
+  - changed: 'src/**/*'
+  - changed: 'lib/**/*'
+
+tests:
+  - changed: 'test/**/*'
+  - changed: '__tests__/**/*'
