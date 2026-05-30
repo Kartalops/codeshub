@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/github/issues/diwas7777/CodesHub" alt="issues Badge"/>
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/diwas7777/CodesHub">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/diwas7777/CodesHub">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/diwas7777/CodesHub">
 </div>
 
 ## Project Description
